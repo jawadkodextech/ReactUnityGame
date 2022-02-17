@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">unitygamecheck</string>
+    <string name="game_view_content_description">Game view</string>
+</resources>
